@@ -1,0 +1,25 @@
+# Privacy Policy
+
+**Last updated: September 28, 2026**
+
+This bot provides leveling, welcome messages, invite tracking, and a counting game for Discord servers.
+
+## Information it stores
+
+The bot stores Discord server and member IDs, XP and level totals, tracked invite counts, selected welcome and counting channels, and the current counting-game state. It reads messages to award XP and check counting entries, but does not save message text.
+
+## How information is used
+
+Stored information is used to run the bot’s features, such as showing levels, tracking invites, and continuing a counting game.
+
+## Storage and deletion
+
+The bot’s data is stored in a `bot-data.json` file on the computer running the bot. To request deletion of your bot data, contact **[your contact email]** and include your Discord username and server name. The bot operator can also delete the bot’s saved data file, which removes the stored data for all servers.
+
+## Sharing and changes
+
+The bot does not sell personal information. Discord processes information when you use Discord, under Discord’s own policies. This policy may be updated if the bot’s features or data storage change.
+
+## Contact
+
+Questions or deletion requests: **[your contact email]**
